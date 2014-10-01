@@ -1,0 +1,13 @@
+version: 1.0.0
+apiversion: 2
+description: Ad@m Mobile Ad SDK for Publiser
+author: Kyungwook Park
+license: MIT
+copyright: Copyright (c) 2014 by Kyungwook Park
+
+# these should not be edited
+name: adam
+moduleid: ti.adam
+guid: 0c6faea9-35cb-48fd-9e06-94cb8e2145d5
+platform: mobileweb
+minsdk: 3.4.0.GA
